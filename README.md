@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo/llmatics-high-resolution-logo-transparent.png" alt="LLMatics Logo" width="400"/>
+  <img src="logo/llmatics-high-resolution-logo-transparent.png" alt="LLMatics Logo" width="800"/>
 </p>
 
 # 📓 LLMatics Blog Notebooks
